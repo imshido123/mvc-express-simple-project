@@ -1,0 +1,21 @@
+{
+  "name": "express-and-mongo-simple-base",
+  "version": "1.0.0",
+  "description": "Express Project using MVC model with a minimum set of dependencies to get up to speed, connecting to MongoDb.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": ["express", "mvc", "mongodb", "boilerplate"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
