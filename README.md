@@ -6,7 +6,7 @@ Express Project using MVC model with a minimum set of dependencies to get up to 
 * **Express** to implement a simple CRUD API
 * **DotEnv** to control environmental variables 
 * **NodeMon** to setup a local server
-* **MongoDB** to enable connection to a node relational DB
+* **MongoDB** to enable connection to a non-relational DB
 
 ## To use
 * Install all dependencies
